@@ -1,6 +1,6 @@
 /*
     ==================================================
-    Phone Directory
+    Word Counter
     ==================================================
     Name   : Nozhin Azarpanah
     Date   : January 14, 2022
