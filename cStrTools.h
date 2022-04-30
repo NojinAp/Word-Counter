@@ -2,8 +2,6 @@
     ==================================================
     Word Counter
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : January 14, 2022
 */
 
 #ifndef SDDS_CSTRTOOLS_H 
